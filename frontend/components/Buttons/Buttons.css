@@ -1,0 +1,20 @@
+/* ButtonContainer.css */
+
+  
+  .bt-container {
+    margin-bottom: 90px; /* Add some margin at the bottom */
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 600px;
+  }
+  

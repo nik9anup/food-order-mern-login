@@ -1,0 +1,47 @@
+.loginpage {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    margin: 0;
+    background-image: url("loginbg.png");
+    background-size: cover; /* Adjust as needed */
+  }
+
+  .loginpage {
+    margin-left: 20px; /* Adjust the margin as needed */
+  }
+
+  .srn,
+  .pass {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+
+  .srn label,
+  .pass label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+
+  .srn input,
+  .pass input {
+    height: 50px;
+    width: 400px;
+  }
+
+  .submit {
+    margin-top: 10px; /* Adjust the margin as needed */
+  }
+  
+  #sub {
+    height: 50px;
+    width: 100px; /* Adjust the width as needed */
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
